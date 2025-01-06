@@ -16,9 +16,9 @@ Décrivez les étapes pour reproduire le bug:
 1. Faire '...'
 2. Cliquer sur '....'
 3. Aller à '.....'
-4. Le bug s'affiche.
+4. Le bug se produit.
 
-**Comportement normal**
+**Comportement attendu**
 Décrivez clairement ce qu'il devrait se passer si le bug n'advenait pas.
 
 **Screenshots**
